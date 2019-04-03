@@ -118,4 +118,4 @@ dmypy.json
 data/
 bert_model/
 .idea/
-
+data_file
